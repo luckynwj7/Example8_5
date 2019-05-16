@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Example8_5</string>
+    <string name="plane_detected">Plane detected.</string>
+    <string name="table">Table</string>
+    <string name="chair">Chair</string>
+    <string name="bed">Bed</string>
+    <string name="not_selected">Not selected.</string>
+    <string name="table_selected">Table selected.</string>
+    <string name="chair_selected">Chair selected.</string>
+    <string name="bed_selected">Bed selected.</string>
+    <string name="not_valid_position">Not valid position.</string>
+    <string name="table_put">Table put.</string>
+    <string name="chair_put">Chair put.</string>
+    <string name="bed_put">Bed put.</string>
+</resources>
